@@ -23,3 +23,6 @@ This project is a starting point for developers looking to explore LangChain wit
 Building conversational agents
 Extracting insights from text
 Experimenting with generative AI capabilities
+
+Get a Gemini API key
+https://ai.google.dev/gemini-api/docs/api-key
